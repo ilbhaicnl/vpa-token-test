@@ -4,5 +4,7 @@
     "description": "Test to make and name a token",
     "image": "https://raw.githubusercontent.com/ilbhaicnl/vpa-token-test/main/logo.png",
     "twitter": "https://twitter.com/TestVPA",
-    "external_url": "https://ilbhaicnl.xyz"
+    "external_url": "https://ilbhaicnl.xyz",
+    "creators": null,
+    "seller_fee_basis_points": 0
 }
